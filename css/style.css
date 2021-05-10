@@ -1,0 +1,38 @@
+.second_row{
+    background-color: aqua;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif ;
+}
+.third_row{
+    background-color: blue;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: inherit;
+}
+.forth_row{
+    background-color: crimson;
+}
+.fifth{
+    background-color: darkcyan;
+}
+.sixth{
+    background-color: darkgreen;
+}
+.seventh{
+    background-color: darkmagenta;
+}
+.eighth{
+    background-color: darkseagreen;
+}
+.nineth{
+    background-color: darkturquoise;
+}
+.tenth{
+    background-color: fuchsia;
+}
+.eleventh{
+    background-color: goldenrod;
+}
+.align{
+    text-align: center;
+}
